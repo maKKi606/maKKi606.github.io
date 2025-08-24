@@ -1,7 +1,7 @@
 main:
   - title: "Portfolio"
-    url: /categories/
-  - title: "Posts"
+    url: /portfolio/
+  - title: "Blog"
     url: /posts/
   - title: "About"
     url: /about/
