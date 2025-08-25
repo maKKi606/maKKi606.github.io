@@ -22,10 +22,10 @@ gallery:
   - title: "Portfolio"
     children:
       - title: "Original Art"
-        url: /portfolio/original-art/
+        url: /gallery/original-art/
       - title: "Roughs and Sketches"
-        url: /portfolio/roughs/
+        url: /gallery/roughs/
       - title: "Fanart"
-        url: /portfolio/fanart/
+        url: /gallery/fanart/
       - title: "Commissions"
-        url: /portfolio/commissions/
+        url: /gallery/commissions/
