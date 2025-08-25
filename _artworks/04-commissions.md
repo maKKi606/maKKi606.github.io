@@ -1,6 +1,6 @@
 ---
 title: "Commissions"
-permalink: /artworks/comissions
+permalink: /artworks/comissions/
 arts:
 # Column 1
 - image: "assets/images/edgalo.jpg"

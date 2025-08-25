@@ -1,6 +1,6 @@
 ---
 title: "Fanart"
-permalink: artworks/fanart
+permalink: /artworks/fanart/
 arts:
 # Column 1
 - image: "assets/images/edgalo.jpg"
