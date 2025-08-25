@@ -3,6 +3,15 @@ main:
     url: /
   - title: "Portfolio"
     url: /portfolio/
+    children:
+      - title: "Original Art"
+        url: /portfolio/original-art/
+      - title: "Roughs and Sketches"
+        url: /portfolio/roughs/
+      - title: "Fanart"
+        url: /portfolio/fanart/
+      - title: "Commissions"
+        url: /portfolio/commissions/
   - title: "Blog"
     url: /blog/
   - title: "About"
