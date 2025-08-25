@@ -3,7 +3,7 @@ title: "Home"
 layout: single
 author_profile: true
 header: 
-    teaser: "/assets/images/2024.11.05-Astolfo bunny fit.png"
+    image: /assets/images/2024.11.05-Astolfo bunny fit.png
 ---
 
 Greetings, virtual traveler! Welcome to my little corner! Here you can find my latest projects, artworks, works in progress and more!
