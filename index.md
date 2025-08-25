@@ -1,13 +1,16 @@
 ---
+title: "Welcome!"
 layout: single
 author_profile: true
 header: "/assets/images/2024.11.05-Astolfo bunny fit.png"
 ---
-**Welcome!**
+Greetings, fellow Internet traveler! Welcome to my little corner! Here you can find my latest projects, artworks, works in progress and more!
 
-While you're here, consider checking the following:
+While you're here, feel free to explore and take a look at my work in the sections below:
 
-- My [Portfolio](/portfolio)
-- My [Blog](/posts), where I write about and share my artworks and writing projects.
+- [Portfolio](/portfolio)
+- [Blog](/posts)
   
-Thank you for visiting!
+Thank you for visiting! 
+
+*Have any questions? Contact me!*
