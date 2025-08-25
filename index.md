@@ -2,7 +2,8 @@
 title: "Welcome!"
 layout: single
 author_profile: true
-header: "/assets/images/2024.11.05-Astolfo bunny fit.png"
+header: 
+    teaser: "/assets/images/2024.11.05-Astolfo bunny fit.png"
 ---
 Greetings, fellow Internet traveler! Welcome to my little corner! Here you can find my latest projects, artworks, works in progress and more!
 
