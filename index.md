@@ -11,7 +11,7 @@ Greetings, virtual traveler! Welcome to my little corner! Here you can find my l
 Feel free to explore and take a look at my work in the sections below:
 
 - [Portfolio](/portfolio)
-- [Blog](/posts)
+- [Blog](/blog)
   
 Thank you for visiting! 
 
