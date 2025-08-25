@@ -1,6 +1,7 @@
 ---
-layout: splash
+layout: single
 author_profile: true
+header: "/assets/images/2024.11.05-Astolfo bunny fit.png"
 ---
 
 # Welcome!
