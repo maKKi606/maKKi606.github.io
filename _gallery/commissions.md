@@ -8,7 +8,7 @@ author_profile: true
 toc: false
 classes: wide
 sidebar:
-  nav: "portfolio"
+  nav: "gallery"
 ---
 
 insert jpg
