@@ -1,6 +1,8 @@
 ---
 title: "Commissions"
-permalink: /pages/artworks/commissions/
+permalink: /pages/artworks/commissions
 sidebar:
   nav: "artworks"
 ---
+
+insert jpg
