@@ -9,14 +9,14 @@ main:
     url: /about/
 
 
-artworks:
+portfolio:
   - title: "Portfolio"
     children:
       - title: "Original Art"
-        url: /pages/artworks/original-art
+        url: /portfolio/original-art/
       - title: "Roughs and Sketches"
-        url: /pages/artworks/roughs
+        url: /portfolio/roughs/
       - title: "Fanart"
-        url: /pages/artworks/fanart
+        url: /portfolio/fanart/
       - title: "Commissions"
-        url: /pages/artworks/commissions
+        url: /portfolio/commissions/
