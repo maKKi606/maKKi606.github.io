@@ -1,10 +1,10 @@
 ---
 title: "Burning Leaves"
 categories:
-  - Blog
+  - Writing
 tags:
-  - Post Formats
-  - notice
+  - DahLia
+  - wip
 ---
 
 Passing aeons

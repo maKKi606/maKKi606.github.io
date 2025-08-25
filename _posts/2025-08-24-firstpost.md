@@ -2,10 +2,10 @@
 title: "First post"
 date: 2025-08-24
 categories:
-  - blog
+  - writing
 tags:
-  - Jekyll
-  - update
+  - wip
+  - UTLB
 ---
 
 This is my first post!

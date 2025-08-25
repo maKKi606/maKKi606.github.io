@@ -1,11 +1,11 @@
 ---
 title: "Roots to sever"
 categories:
-  - Blog
+  - Artworks
 tags:
-  - link
-  - Post Formats
-link: https://github.com
+  - UTLB
+  - wip
+  - character design
 ---
 
 Though wounds were great, and respite scant
