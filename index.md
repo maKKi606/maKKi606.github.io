@@ -1,10 +1,11 @@
 ---
-title: "Welcome!"
+title: "Home"
 layout: single
 author_profile: true
 header: 
     teaser: "/assets/images/2024.11.05-Astolfo bunny fit.png"
 ---
+
 Greetings, fellow Internet traveler! Welcome to my little corner! Here you can find my latest projects, artworks, works in progress and more!
 
 While you're here, feel free to explore and take a look at my work in the sections below:
@@ -14,4 +15,4 @@ While you're here, feel free to explore and take a look at my work in the sectio
   
 Thank you for visiting! 
 
-*Have any questions? Contact me!*
+*Have any questions? [Contact me](mailto:makki.ikkam606@gmail.com)!*
