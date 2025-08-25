@@ -7,4 +7,6 @@ entries_layout: grid
 author_profile: true
 toc: false
 classes: wide
+sidebar:
+  nav: "artworks"
 ---

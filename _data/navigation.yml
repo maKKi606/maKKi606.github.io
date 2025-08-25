@@ -7,3 +7,16 @@ main:
     url: /blog/
   - title: "About"
     url: /about/
+
+
+artworks:
+  - title: "Portfolio"
+    chidlren:
+      - title: "Original Art"
+        url: /artworks/original-art/
+      - title: "Roughs and Sketches"
+        url: /artworks/roughs/
+      - title: "Fanart"
+        url: /artworks/fanart/
+      - title: "Commissions"
+        url: /artworks/commissions/
