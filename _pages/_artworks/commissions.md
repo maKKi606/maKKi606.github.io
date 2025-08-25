@@ -1,8 +1,10 @@
 ---
 title: "Commissions"
-permalink: /pages/artworks/commissions
+layout: single
+permalink: /pages/artworks/commissions/
 sidebar:
   nav: "artworks"
+author_profile: true
 ---
 
 insert jpg

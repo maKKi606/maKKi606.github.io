@@ -1,8 +1,10 @@
 ---
 title: "Fanart"
-permalink: /pages/artworks/fanart
+layout: single
+permalink: /pages/artworks/fanart/
 sidebar:
   nav: "artworks"
+author_profile: true
 ---
 
 insert jpg
