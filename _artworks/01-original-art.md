@@ -1,5 +1,6 @@
 ---
-title: "Commissions"
+title: "Original Art"
+permalink: artworks/original-art
 arts:
 # Column 1
 - image: "assets/images/edgalo.jpg"

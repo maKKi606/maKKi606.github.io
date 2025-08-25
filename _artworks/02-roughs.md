@@ -1,5 +1,6 @@
 ---
-title: "Fanart"
+title: "Roughs and Sketches"
+permalink: artworks/roughs
 arts:
 # Column 1
 - image: "assets/images/edgalo.jpg"
