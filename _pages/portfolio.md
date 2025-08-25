@@ -1,6 +1,6 @@
 ---
 title: "Portfolio"
-layout: single
+layout: gallery
 permalink: /portfolio/
 author_profile: true
 toc: false
