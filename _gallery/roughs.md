@@ -1,7 +1,7 @@
 ---
 title: "Roughs and Sketches"
 layout: collection
-permalink: /portfolio/roughs
+permalink: /portfolio/roughs/
 collection: portfolio
 entries_layout: grid
 author_profile: true

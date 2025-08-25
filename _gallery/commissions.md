@@ -1,7 +1,7 @@
 ---
-title: "Original Art"
+title: "Commissions"
 layout: collection
-permalink: /portfolio/original-art
+permalink: /portfolio/commissions/
 collection: portfolio
 entries_layout: grid
 author_profile: true

@@ -1,7 +1,7 @@
 ---
 title: "Original Art"
 layout: collection
-permalink: /portfolio/original-art
+permalink: /portfolio/original-art/
 collection: portfolio
 entries_layout: grid
 author_profile: true

@@ -1,7 +1,7 @@
 ---
-title: "Original Art"
+title: "Fanart"
 layout: collection
-permalink: /portfolio/original-art
+permalink: /portfolio/fanart/
 collection: portfolio
 entries_layout: grid
 author_profile: true
