@@ -1,4 +1,5 @@
-name: "Roughs and Sketches"
+---
+title: "Original Art"
 arts:
 # Column 1
 - image: "assets/images/edgalo.jpg"
@@ -21,3 +22,4 @@ arts:
   title: "astolfo fanart"
   artist: "maKKi"
   description: # this is my artowrk description
+---
