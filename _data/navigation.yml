@@ -11,7 +11,7 @@ main:
 
 artworks:
   - title: "Portfolio"
-    chidlren:
+    children:
       - title: "Original Art"
         url: /artworks/original-art/
       - title: "Roughs and Sketches"
