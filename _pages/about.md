@@ -2,6 +2,7 @@
 permalink: /about/
 title: "About"
 toc: false
+classes: wide
 ---
 
 This is the paragraph in which i introduce myself yay

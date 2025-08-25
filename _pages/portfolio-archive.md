@@ -1,7 +1,10 @@
 ---
 title: "Portfolio"
-layout: gallery
+layout: collection
 permalink: /portfolio/
+collection: portfolio
+entries_layout: grid
 author_profile: true
 toc: false
+classes: wide
 ---
