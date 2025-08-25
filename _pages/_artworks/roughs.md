@@ -1,6 +1,6 @@
 ---
 title: "Roughs and Sketches"
-permalink: /artworks/roughs/
+permalink: /pages/artworks/roughs/
 sidebar:
   nav: "artworks"
 ---

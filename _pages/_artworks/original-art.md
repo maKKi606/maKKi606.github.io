@@ -1,6 +1,6 @@
 ---
 title: "Original Art"
-permalink: /artworks/original-art/
+permalink: /pages/artworks/original-art/
 sidebar:
   nav: "artworks"
 ---

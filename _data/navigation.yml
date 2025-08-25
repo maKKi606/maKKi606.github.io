@@ -13,10 +13,10 @@ artworks:
   - title: "Portfolio"
     children:
       - title: "Original Art"
-        url: /artworks/original-art/
+        url: /pages/artworks/original-art/
       - title: "Roughs and Sketches"
-        url: /artworks/roughs/
+        url: /pages/artworks/roughs/
       - title: "Fanart"
-        url: /artworks/fanart/
+        url: /pages/artworks/fanart/
       - title: "Commissions"
-        url: /artworks/commissions/
+        url: /pages/artworks/commissions/

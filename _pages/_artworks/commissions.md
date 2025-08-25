@@ -1,6 +1,6 @@
 ---
 title: "Commissions"
-permalink: /artworks/commissions/
+permalink: /pages/artworks/commissions/
 sidebar:
   nav: "artworks"
 ---
