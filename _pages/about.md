@@ -8,6 +8,8 @@ classes: wide
 
 ![Tux, the Linux mascot](/assets/images/tux.png)
 
+> search how to change the image size 
+
 This is the paragraph in which i introduce myself yay
 
 * the block quote
