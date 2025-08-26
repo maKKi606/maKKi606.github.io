@@ -4,14 +4,14 @@ main:
   - title: "Portfolio"
     url: /portfolio/
     children:
-      - title: "Original Art"
-        url: /portfolio/original-art/
-      - title: "Roughs and Sketches"
-        url: /portfolio/roughs/
-      - title: "Fanart"
-        url: /portfolio/fanart/
-      - title: "Commissions"
-        url: /portfolio/commissions/
+      - title: "ORIGINAL ART"
+        url: /portfolio/
+      - title: "ROUGHS AND SKETCHES"
+        url: /portfolio/
+      - title: "FANART"
+        url: /portfolio/
+      - title: "COMMISSIONS"
+        url: /portfolio/
   - title: "Blog"
     url: /blog/
   - title: "About"
@@ -21,14 +21,14 @@ main:
 portfolio:
   - title: "Portfolio"
     children:
-      - title: "All"
+      - title: "ALL"
         url: /portfolio/
-      - title: "Original Art"
+      - title: "ORIGINAL ART"
         url: /portfolio/
-      - title: "Roughs and Sketches"
+      - title: "ROUGHS AND SKETCHES"
         url: /portfolio/
-      - title: "Fanart"
+      - title: "FANART"
         url: /portfolio/
-      - title: "Commissions"
+      - title: "COMMISSIONS"
         url: /portfolio/
 
