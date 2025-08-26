@@ -18,14 +18,16 @@ main:
     url: /about/
 
 
-gallery:
+portfolio:
   - title: "Portfolio"
     children:
+      - title: "All"
+        url: /portfolio/
       - title: "Original Art"
-        url: /gallery/original-art/
+        url: /
       - title: "Roughs and Sketches"
-        url: /gallery/roughs/
+        url: /
       - title: "Fanart"
-        url: /gallery/fanart/
+        url: /
       - title: "Commissions"
-        url: /gallery/commissions/
+        url: /
