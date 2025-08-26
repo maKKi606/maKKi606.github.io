@@ -2,10 +2,10 @@ main:
   - title: "Home"
     url: /
   - title: "Portfolio"
-    url: /portfolio/original-art
+    url: /portfolio/original-art/
     children:
       - title: "ORIGINAL ART"
-        url: /portfolio/original-art
+        url: /portfolio/original-art/
       - title: "ROUGHS AND SKETCHES"
         url: /portfolio/roughs/
       - title: "FANART"
@@ -22,7 +22,7 @@ portfolio:
   - title: "Portfolio"
     children:
       - title: "ORIGINAL ART"
-        url: /portfolio/original-art
+        url: /portfolio/original-art/
       - title: "ROUGHS AND SKETCHES"
         url: /portfolio/roughs/
       - title: "FANART"
