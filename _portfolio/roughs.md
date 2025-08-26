@@ -23,10 +23,10 @@ gallery:
     image_path: /assets/images/yoko.jpg
     alt: 
     title: "Yoko"
-  - url: /assets/images/logo.jpg
-    image_path: /assets/images/logo.jpg
+  - url: /assets/images/astolfo.png
+    image_path: /assets/images/astolfo.png
     alt: 
-    title: "Persona"
+    title: "Astolfo"
 ---
 
 {% include gallery id="gallery" class="full" layout="half" %}

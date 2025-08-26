@@ -3,7 +3,7 @@ title: "Home"
 layout: single
 author_profile: true
 header: 
-    image: /assets/images/2024.11.05-Astolfo bunny fit.png
+    image: /assets/images/astolfo.png
 
 gallery:
   - url: /assets/images/edgalo.jpg
@@ -18,10 +18,10 @@ gallery:
     image_path: /assets/images/yoko.jpg
     alt: 
     title: "Yoko"
-  - url: /assets/images/logo.jpg
-    image_path: /assets/images/logo.jpg
+  - url: /assets/images/astolfo.png
+    image_path: /assets/images/astolfo.png
     alt: 
-    title: "Persona"
+    title: "Astolfo"
 classes: wide
 ---
 
