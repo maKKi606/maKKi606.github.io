@@ -22,7 +22,7 @@ portfolio:
   - title: "Portfolio"
     children:
       - title: "ALL"
-        url: /portfolio/
+        url: /portfolio/all/
       - title: "ORIGINAL ART"
         url: /portfolio/
       - title: "ROUGHS AND SKETCHES"
