@@ -20,3 +20,11 @@ This is the paragraph in which i introduce myself yay
 
 > This is the blockquote i can use this to insert text thingies into my writings suchas letters, text messages etc. i think it looks nice
 
+
+## commission
+
+should i add a purchase option in the future? dunno
+
+btw where do i even put my logo bro
+
+
