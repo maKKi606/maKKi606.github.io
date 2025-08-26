@@ -1,7 +1,7 @@
 ---
-title: "Portfolio"
+title: "Original Art"
 layout: collection
-permalink: /portfolio/all/
+permalink: /portfolio/original-art/
 collection: portfolio
 entries_layout: grid
 author_profile: true
@@ -10,3 +10,5 @@ classes: wide
 sidebar:
   nav: "portfolio"
 ---
+
+insert jpg
