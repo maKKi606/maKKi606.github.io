@@ -1,12 +1,12 @@
 main:
-  - title: "Home"
-    url: /
   - title: "Portfolio"
     url: /portfolio/original-art/
   - title: "Blog"
     url: /blog/
   - title: "About"
     url: /about/
+  - title: "Home"
+    url: /
 
 
 portfolio:
