@@ -36,4 +36,4 @@ Thank you for visiting!
 
 *Have any questions? [Contact me](mailto:makki.ikkam606@gmail.com)!*
 
-{% include gallery id="gallery" class="full" layout="half"}
+{% include gallery id="gallery" class="full" layout="half" %}

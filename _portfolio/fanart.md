@@ -29,4 +29,4 @@ gallery:
     title: "Persona"
 ---
 
-{% include gallery id="gallery" class="full"}
+{% include gallery id="gallery" class="full" layout="half" %}
