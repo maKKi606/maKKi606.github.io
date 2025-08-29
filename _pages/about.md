@@ -7,24 +7,11 @@ classes: wide
 
 
 
-##  this is how you insert an image: 
+## Hi! 
 
-![Tux, the Linux mascot](/assets/images/tux.png)
+I'm maKKi! I love creating stuff with my hands and expressing my ideas on paper (currently, it's on a tablet...)!
 
-> why is it so big it was small on the site 
->>search how to change the image size 
+I like learning and trying out different things and me having a hundred hobbies is a consequence of those. Whenever I'm not drawing, I'm usually reading, gaming or tinkering with the computer. 
 
-This is the paragraph in which i introduce myself yay
-
-## the block quote
-
-> This is the blockquote i can use this to insert text thingies into my writings suchas letters, text messages etc. i think it looks nice
-
-
-## commission
-
-should i add a purchase option in the future? dunno
-
-btw where do i even put my logo bro
-
+That's it!
 
